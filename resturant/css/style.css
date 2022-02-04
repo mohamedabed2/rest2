@@ -25,9 +25,9 @@ header {
     background-position: center;
     position: relative;
 }
-@media (max-width: 991px) {
+@media (max-width: 771px) {
     header {
-        height: 580px;
+        height: 70vh;
         
     }
 }
@@ -162,7 +162,7 @@ header .welcom a {
         font-size: 30px;
     }
     .sec1 .container .boxes .box p {
-        font-size: 20px;
+        font-size: 33px;
     }
 }
 .sec1 .boxes .box img {
